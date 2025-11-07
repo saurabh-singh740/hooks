@@ -1,0 +1,13 @@
+.box{
+  margin:auto;
+  padding:20px;
+  justify-content: center;
+  align-items: center;
+  width:100px;
+  height: 100px;
+}
+
+.btn{
+  color:blueviolet;
+  padding:4px;
+}
